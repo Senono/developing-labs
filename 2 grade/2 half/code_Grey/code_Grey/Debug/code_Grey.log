@@ -1,0 +1,3 @@
+﻿  code_Grey.cpp
+C:\developing\2 grade\2 half\code_Grey\code_Grey\code_Grey.cpp(14,11): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  code_Grey.vcxproj -> C:\developing\2 grade\2 half\code_Grey\Debug\code_Grey.exe

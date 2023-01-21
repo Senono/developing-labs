@@ -1,0 +1,13 @@
+C:\developing\2 grade\2 half\3l_1CSharp\3l_1CSharp\bin\Debug\netcoreapp3.1\3l_1CSharp.exe
+C:\developing\2 grade\2 half\3l_1CSharp\3l_1CSharp\bin\Debug\netcoreapp3.1\3l_1CSharp.deps.json
+C:\developing\2 grade\2 half\3l_1CSharp\3l_1CSharp\bin\Debug\netcoreapp3.1\3l_1CSharp.runtimeconfig.json
+C:\developing\2 grade\2 half\3l_1CSharp\3l_1CSharp\bin\Debug\netcoreapp3.1\3l_1CSharp.runtimeconfig.dev.json
+C:\developing\2 grade\2 half\3l_1CSharp\3l_1CSharp\bin\Debug\netcoreapp3.1\3l_1CSharp.dll
+C:\developing\2 grade\2 half\3l_1CSharp\3l_1CSharp\bin\Debug\netcoreapp3.1\3l_1CSharp.pdb
+C:\developing\2 grade\2 half\3l_1CSharp\3l_1CSharp\obj\Debug\netcoreapp3.1\3l_1CSharp.csprojAssemblyReference.cache
+C:\developing\2 grade\2 half\3l_1CSharp\3l_1CSharp\obj\Debug\netcoreapp3.1\3l_1CSharp.csproj.CoreCompileInputs.cache
+C:\developing\2 grade\2 half\3l_1CSharp\3l_1CSharp\obj\Debug\netcoreapp3.1\3l_1CSharp.AssemblyInfoInputs.cache
+C:\developing\2 grade\2 half\3l_1CSharp\3l_1CSharp\obj\Debug\netcoreapp3.1\3l_1CSharp.AssemblyInfo.cs
+C:\developing\2 grade\2 half\3l_1CSharp\3l_1CSharp\obj\Debug\netcoreapp3.1\3l_1CSharp.dll
+C:\developing\2 grade\2 half\3l_1CSharp\3l_1CSharp\obj\Debug\netcoreapp3.1\3l_1CSharp.pdb
+C:\developing\2 grade\2 half\3l_1CSharp\3l_1CSharp\obj\Debug\netcoreapp3.1\3l_1CSharp.genruntimeconfig.cache

@@ -1,0 +1,4 @@
+﻿  Sokol_3l.cpp
+C:\developing\2 grade\2 half\help\Sokol\Sokol_3l\Sokol_3l\Sokol_3l.cpp(105,9): warning C4101: j: неиспользованная локальная переменная
+C:\developing\2 grade\2 half\help\Sokol\Sokol_3l\Sokol_3l\Sokol_3l.cpp(87): warning C4715: Stack<int>::top: значение возвращается не при всех путях выполнения
+  Sokol_3l.vcxproj -> C:\developing\2 grade\2 half\help\Sokol\Sokol_3l\Debug\Sokol_3l.exe

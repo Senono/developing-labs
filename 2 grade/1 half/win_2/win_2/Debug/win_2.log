@@ -1,0 +1,4 @@
+﻿  win_2.cpp
+C:\developing\2 grade\1 half\win_2\win_2\win_2.cpp(28,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\developing\2 grade\1 half\win_2\win_2\win_2.cpp(70,27): warning C4018: <: несоответствие типов со знаком и без знака
+  win_2.vcxproj -> C:\developing\2 grade\1 half\win_2\Debug\win_2.exe

@@ -1,0 +1,9 @@
+﻿  win_4.cpp
+C:\developing\2 grade\1 half\win_4\win_4\win_4.cpp(24,34): warning C4129: W: неизвестная escape-последовательность
+C:\developing\2 grade\1 half\win_4\win_4\win_4.cpp(24,34): warning C4129: S: неизвестная escape-последовательность
+C:\developing\2 grade\1 half\win_4\win_4\win_4.cpp(24,34): warning C4129: c: неизвестная escape-последовательность
+C:\developing\2 grade\1 half\win_4\win_4\win_4.cpp(57,23): warning C4129: P: неизвестная escape-последовательность
+C:\developing\2 grade\1 half\win_4\win_4\win_4.cpp(57,23): warning C4129: N: неизвестная escape-последовательность
+C:\developing\2 grade\1 half\win_4\win_4\win_4.cpp(12,12): warning C4101: Sthread: неиспользованная локальная переменная
+C:\developing\2 grade\1 half\win_4\win_4\win_4.cpp(13,12): warning C4101: Rthread: неиспользованная локальная переменная
+  win_4.vcxproj -> C:\developing\2 grade\1 half\win_4\Debug\win_4.exe

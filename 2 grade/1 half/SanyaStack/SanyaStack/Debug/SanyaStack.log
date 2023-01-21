@@ -1,0 +1,4 @@
+﻿  SanyaStack.cpp
+C:\developing\2 grade\1 half\SanyaStack\SanyaStack\SanyaStack.cpp(130,88): warning C4305:  аргумент: усечение из "__int64" в "int"
+C:\developing\2 grade\1 half\SanyaStack\SanyaStack\SanyaStack.cpp(130,36): warning C4309:  аргумент: усечение константного значения
+  SanyaStack.vcxproj -> C:\developing\2 grade\1 half\SanyaStack\Debug\SanyaStack.exe

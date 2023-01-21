@@ -1,0 +1,10 @@
+C:\developing\3 grade\1 half\Graphics\1labagarphics(sawa)\1labagarphics(sawa)\bin\Debug\1labagarphics(sawa).exe.config
+C:\developing\3 grade\1 half\Graphics\1labagarphics(sawa)\1labagarphics(sawa)\bin\Debug\1labagarphics(sawa).exe
+C:\developing\3 grade\1 half\Graphics\1labagarphics(sawa)\1labagarphics(sawa)\bin\Debug\1labagarphics(sawa).pdb
+C:\developing\3 grade\1 half\Graphics\1labagarphics(sawa)\1labagarphics(sawa)\obj\Debug\1labagarphics(sawa).csprojAssemblyReference.cache
+C:\developing\3 grade\1 half\Graphics\1labagarphics(sawa)\1labagarphics(sawa)\obj\Debug\_1labagarphics_sawa_.Form1.resources
+C:\developing\3 grade\1 half\Graphics\1labagarphics(sawa)\1labagarphics(sawa)\obj\Debug\_1labagarphics_sawa_.Properties.Resources.resources
+C:\developing\3 grade\1 half\Graphics\1labagarphics(sawa)\1labagarphics(sawa)\obj\Debug\1labagarphics(sawa).csproj.GenerateResource.cache
+C:\developing\3 grade\1 half\Graphics\1labagarphics(sawa)\1labagarphics(sawa)\obj\Debug\1labagarphics(sawa).csproj.CoreCompileInputs.cache
+C:\developing\3 grade\1 half\Graphics\1labagarphics(sawa)\1labagarphics(sawa)\obj\Debug\1labagarphics(sawa).exe
+C:\developing\3 grade\1 half\Graphics\1labagarphics(sawa)\1labagarphics(sawa)\obj\Debug\1labagarphics(sawa).pdb

@@ -1,0 +1,4 @@
+﻿  laba2.cpp
+C:\developing\2 grade\1 half\C++\laba2\laba2\laba2.cpp(86,1): error C2297:  %: недопустимо, правый оператор имеет тип "double"
+C:\developing\2 grade\1 half\C++\laba2\laba2\laba2.cpp(90,51): warning C4244:  =: преобразование "double" в "int", возможна потеря данных
+C:\developing\2 grade\1 half\C++\laba2\laba2\laba2.cpp(91,22): warning C4244:  =: преобразование "double" в "int", возможна потеря данных

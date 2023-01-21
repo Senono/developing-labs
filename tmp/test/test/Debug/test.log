@@ -1,0 +1,4 @@
+﻿  test.cpp
+C:\developing\tmp\test\test\test.cpp(64,35): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\developing\tmp\test\test\test.cpp(65,37): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  test.vcxproj -> C:\developing\tmp\test\Debug\test.exe

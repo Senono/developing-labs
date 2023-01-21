@@ -1,0 +1,10 @@
+C:\developing\3 grade\1 half\Graphics\2labagraphics\2labagraphics\bin\Debug\2labagraphics.exe.config
+C:\developing\3 grade\1 half\Graphics\2labagraphics\2labagraphics\bin\Debug\2labagraphics.exe
+C:\developing\3 grade\1 half\Graphics\2labagraphics\2labagraphics\bin\Debug\2labagraphics.pdb
+C:\developing\3 grade\1 half\Graphics\2labagraphics\2labagraphics\obj\Debug\2labagraphics.csprojAssemblyReference.cache
+C:\developing\3 grade\1 half\Graphics\2labagraphics\2labagraphics\obj\Debug\_2labagraphics.Form1.resources
+C:\developing\3 grade\1 half\Graphics\2labagraphics\2labagraphics\obj\Debug\_2labagraphics.Properties.Resources.resources
+C:\developing\3 grade\1 half\Graphics\2labagraphics\2labagraphics\obj\Debug\2labagraphics.csproj.GenerateResource.cache
+C:\developing\3 grade\1 half\Graphics\2labagraphics\2labagraphics\obj\Debug\2labagraphics.csproj.CoreCompileInputs.cache
+C:\developing\3 grade\1 half\Graphics\2labagraphics\2labagraphics\obj\Debug\2labagraphics.exe
+C:\developing\3 grade\1 half\Graphics\2labagraphics\2labagraphics\obj\Debug\2labagraphics.pdb

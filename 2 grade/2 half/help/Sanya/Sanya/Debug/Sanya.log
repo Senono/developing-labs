@@ -1,0 +1,3 @@
+﻿  Sanya.cpp
+C:\developing\2 grade\2 half\help\Sanya\Sanya\Sanya.cpp(59,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Sanya.vcxproj -> C:\developing\2 grade\2 half\help\Sanya\Debug\Sanya.exe

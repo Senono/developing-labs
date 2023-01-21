@@ -1,0 +1,11 @@
+C:\developing\3 grade\2 half\Graphics\1laba\1laba\bin\Debug\1laba.exe.config
+C:\developing\3 grade\2 half\Graphics\1laba\1laba\bin\Debug\1laba.exe
+C:\developing\3 grade\2 half\Graphics\1laba\1laba\bin\Debug\1laba.pdb
+C:\developing\3 grade\2 half\Graphics\1laba\1laba\obj\Debug\1laba.csprojAssemblyReference.cache
+C:\developing\3 grade\2 half\Graphics\1laba\1laba\obj\Debug\_1laba.Form1.resources
+C:\developing\3 grade\2 half\Graphics\1laba\1laba\obj\Debug\_1laba.Properties.Resources.resources
+C:\developing\3 grade\2 half\Graphics\1laba\1laba\obj\Debug\1laba.csproj.GenerateResource.cache
+C:\developing\3 grade\2 half\Graphics\1laba\1laba\obj\Debug\1laba.csproj.CoreCompileInputs.cache
+C:\developing\3 grade\2 half\Graphics\1laba\1laba\obj\Debug\1laba.exe
+C:\developing\3 grade\2 half\Graphics\1laba\1laba\obj\Debug\1laba.pdb
+C:\developing\3 grade\2 half\Graphics\1laba\1laba\obj\Debug\_1laba.Form2.resources

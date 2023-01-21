@@ -1,0 +1,4 @@
+﻿  Korost.cpp
+C:\developing\2 grade\2 half\help\Korost\Korost\Korost.cpp(43,52): error C2660: sort_vstavka: функция не принимает 4 аргументов
+C:\developing\2 grade\2 half\help\Korost\Korost\Korost.cpp(12,6): message : см. объявление "sort_vstavka"
+C:\developing\2 grade\2 half\help\Korost\Korost\Korost.cpp(81,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных

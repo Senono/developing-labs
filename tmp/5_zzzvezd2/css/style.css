@@ -1,0 +1,196 @@
+a:hover {
+  text-decoration: none;
+}
+
+.logo {
+    width: 50px;
+    height: 50px;
+    z-index: 1;
+}
+
+.p-0{
+	padding: 0;
+}
+.carousel-control-next-icon, .carousel-control-prev-icon{
+	height: 50px;
+	width: 50px;	
+}
+
+.carousel-inner img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  margin: 0 auto;
+}
+
+.lists {
+  color: white;
+}
+
+.lists p {
+  text-align: center;
+}
+
+.lists > div {
+  padding: 30px 0 30px 0;
+  background-color:#333536;
+}
+
+.lists > div:nth-child(even) {
+  box-shadow: 0 1px 100px black inset;
+}
+
+.list > div:nth-child(n) {
+  box-shadow: 0 1px 20px black inset;
+}
+
+.img-custom img {
+  max-width: 100%;
+  height: auto;
+}
+
+.position-rl {
+  position: relative;
+}
+
+.carousel-inner h2 {
+  color: white;
+  position: absolute;
+  top: 20px;
+  left: 50px;
+}
+
+.carousel-inner h3 {
+  color: white;
+  position: absolute;
+  bottom: 30px;
+  right: 50px;
+}
+
+.more {
+  color: grey;
+  margin-right: 20px;
+  padding-top: 16px;
+}
+
+.more a {
+  color: gray;
+}
+
+nav form {
+  background: white;
+  border-radius: 20px;
+}
+
+nav form input, nav form button {
+  border: none;
+  outline: none;
+  background: transparent;
+}
+
+nav form input {
+  width: 250px;
+  height: 30px;
+  padding-left: 15px;
+  border-radius: 20px;
+}
+
+nav form button {
+  height: 30px;
+  width: 42px;
+  position: absolute;
+  right: 0;
+  cursor: pointer;
+}
+
+nav form button:before {
+  content: "\f002";
+  font-family: FontAwesome;
+  font-size: 16px;
+  color: black;
+}
+
+nav .form {
+  position: relative;
+  margin-right: 10px;
+}
+
+footer p {
+  color: #cacccc;
+}
+
+p {
+  margin: 0;
+  padding: 0;
+}
+
+footer .copyright {
+  font-size: 0.5rem;
+  color: gray;
+}
+
+.clients {
+  color: #fff;
+  background: #444446; 
+  margin-top: 10px;
+  height: 160px;
+  padding: 20px 0;
+}
+
+.clients > div {
+  max-height: 115px;
+  padding: 0;
+  overflow: hidden;
+}
+
+.clients .img {
+  position: relative;
+}
+
+.clients img {
+  height: 110px;
+  width: 110px;
+  border-radius: 50%;
+  margin: auto;
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  right: 0;
+  left: 0;
+}
+
+.general .switch a {
+  color: lightgray;
+}
+
+.general .switch {
+  margin-top: 10px;
+  background: #444446;
+  border-radius: 2px;
+  padding: 7px;
+}
+
+.general .switch ul {
+  padding: 0;
+  margin: 0 0 0 5px;
+  list-style-type: none;
+}
+
+.lk img, .poster_list img {
+  width: 100%;
+  height: auto;
+  margin: 10px auto 0 auto;
+  display:block;
+}
+
+.general .switch a:hover {
+  text-shadow: 1px 1px 5px black;
+}
+
+.general .switch .active {
+  font-weight: 600;
+}
+
+.shadow-inset {
+  box-shadow: 0 1px 30px black inset;
+}

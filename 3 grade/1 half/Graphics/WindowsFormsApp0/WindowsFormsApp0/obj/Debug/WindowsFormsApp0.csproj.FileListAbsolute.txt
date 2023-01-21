@@ -1,0 +1,10 @@
+C:\developing\3 grade\1 half\Graphics\WindowsFormsApp0\WindowsFormsApp0\bin\Debug\WindowsFormsApp0.exe.config
+C:\developing\3 grade\1 half\Graphics\WindowsFormsApp0\WindowsFormsApp0\bin\Debug\WindowsFormsApp0.exe
+C:\developing\3 grade\1 half\Graphics\WindowsFormsApp0\WindowsFormsApp0\bin\Debug\WindowsFormsApp0.pdb
+C:\developing\3 grade\1 half\Graphics\WindowsFormsApp0\WindowsFormsApp0\obj\Debug\WindowsFormsApp0.csprojAssemblyReference.cache
+C:\developing\3 grade\1 half\Graphics\WindowsFormsApp0\WindowsFormsApp0\obj\Debug\WindowsFormsApp0.Properties.Resources.resources
+C:\developing\3 grade\1 half\Graphics\WindowsFormsApp0\WindowsFormsApp0\obj\Debug\WindowsFormsApp0.csproj.GenerateResource.cache
+C:\developing\3 grade\1 half\Graphics\WindowsFormsApp0\WindowsFormsApp0\obj\Debug\WindowsFormsApp0.csproj.CoreCompileInputs.cache
+C:\developing\3 grade\1 half\Graphics\WindowsFormsApp0\WindowsFormsApp0\obj\Debug\WindowsFormsApp0.exe
+C:\developing\3 grade\1 half\Graphics\WindowsFormsApp0\WindowsFormsApp0\obj\Debug\WindowsFormsApp0.pdb
+C:\developing\3 grade\1 half\Graphics\WindowsFormsApp0\WindowsFormsApp0\obj\Debug\WindowsFormsApp0.Form1.resources

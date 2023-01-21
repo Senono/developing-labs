@@ -1,0 +1,10 @@
+C:\developing\3 grade\1 half\Graphics\3 laba\3 laba\obj\Debug\3 laba.csprojAssemblyReference.cache
+C:\developing\3 grade\1 half\Graphics\3 laba\3 laba\obj\Debug\_3_laba.Form1.resources
+C:\developing\3 grade\1 half\Graphics\3 laba\3 laba\obj\Debug\_3_laba.Properties.Resources.resources
+C:\developing\3 grade\1 half\Graphics\3 laba\3 laba\obj\Debug\3 laba.csproj.GenerateResource.cache
+C:\developing\3 grade\1 half\Graphics\3 laba\3 laba\obj\Debug\3 laba.csproj.CoreCompileInputs.cache
+C:\developing\3 grade\1 half\Graphics\3 laba\3 laba\bin\Debug\3 laba.exe.config
+C:\developing\3 grade\1 half\Graphics\3 laba\3 laba\bin\Debug\3 laba.exe
+C:\developing\3 grade\1 half\Graphics\3 laba\3 laba\bin\Debug\3 laba.pdb
+C:\developing\3 grade\1 half\Graphics\3 laba\3 laba\obj\Debug\3 laba.exe
+C:\developing\3 grade\1 half\Graphics\3 laba\3 laba\obj\Debug\3 laba.pdb

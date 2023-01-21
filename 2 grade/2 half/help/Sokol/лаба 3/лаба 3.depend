@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1576169911 source:c:\users\chere\desktop\Лабы\второй год\лаба 3\main.cpp
+	<iostream>
+	"Mnojestva.h"
+
+1576177535 source:c:\users\chere\desktop\Лабы\второй год\лаба 3\src\mnojestva.cpp
+	"Mnojestva.h"
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<set>
+	<iterator>
+	<algorithm>
+	"Mnojestva.h"
+
+1576180198 c:\users\chere\desktop\Лабы\второй год\лаба 3\include\mnojestva.h
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<set>
+	<iterator>
+	<cassert>
+

@@ -1,0 +1,5 @@
+﻿  Task11.cpp
+C:\developing\3 grade\2 half\Parallel\Task11\Task11\Task11.cpp(27,9): error C3005: {: непредвиденная лексема в директиве OpenMP "parallel"
+C:\developing\3 grade\2 half\Parallel\Task11\Task11\Task11.cpp(29,5): error C3018: i: в проверке или в приращении в операторе For директивы OpenMP должна использоваться переменная индекса "j"
+C:\developing\3 grade\2 half\Parallel\Task11\Task11\Task11.cpp(33,1): error C2059: синтаксическая ошибка: }
+C:\developing\3 grade\2 half\Parallel\Task11\Task11\Task11.cpp(33,1): error C2143: синтаксическая ошибка: отсутствие ";" перед "}"

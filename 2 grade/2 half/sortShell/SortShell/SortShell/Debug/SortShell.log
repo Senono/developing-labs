@@ -1,0 +1,3 @@
+﻿  SortShell.cpp
+C:\developing\2 grade\2 half\sortShell\SortShell\SortShell\SortShell.cpp(58,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  SortShell.vcxproj -> C:\developing\2 grade\2 half\sortShell\SortShell\Debug\SortShell.exe

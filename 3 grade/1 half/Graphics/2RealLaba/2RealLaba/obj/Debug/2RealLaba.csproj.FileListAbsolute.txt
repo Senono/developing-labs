@@ -1,0 +1,10 @@
+C:\developing\3 grade\1 half\Graphics\2RealLaba\2RealLaba\bin\Debug\2RealLaba.exe.config
+C:\developing\3 grade\1 half\Graphics\2RealLaba\2RealLaba\bin\Debug\2RealLaba.exe
+C:\developing\3 grade\1 half\Graphics\2RealLaba\2RealLaba\bin\Debug\2RealLaba.pdb
+C:\developing\3 grade\1 half\Graphics\2RealLaba\2RealLaba\obj\Debug\2RealLaba.csprojAssemblyReference.cache
+C:\developing\3 grade\1 half\Graphics\2RealLaba\2RealLaba\obj\Debug\_2RealLaba.Form1.resources
+C:\developing\3 grade\1 half\Graphics\2RealLaba\2RealLaba\obj\Debug\_2RealLaba.Properties.Resources.resources
+C:\developing\3 grade\1 half\Graphics\2RealLaba\2RealLaba\obj\Debug\2RealLaba.csproj.GenerateResource.cache
+C:\developing\3 grade\1 half\Graphics\2RealLaba\2RealLaba\obj\Debug\2RealLaba.csproj.CoreCompileInputs.cache
+C:\developing\3 grade\1 half\Graphics\2RealLaba\2RealLaba\obj\Debug\2RealLaba.exe
+C:\developing\3 grade\1 half\Graphics\2RealLaba\2RealLaba\obj\Debug\2RealLaba.pdb
